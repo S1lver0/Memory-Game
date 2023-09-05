@@ -1,0 +1,8 @@
+#container-cards {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  max-width: 600px; /* Ajusta el ancho según tus necesidades */
+  max-height: 640px;
+  margin: 0 auto;
+}
